@@ -1,1 +1,1 @@
-from mobility import *
+from pymobility.models.mobility import *
